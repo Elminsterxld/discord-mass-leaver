@@ -12,4 +12,4 @@ Fast Discord Token Leaver coded in node.js
 npm i 
 ```
 
-* **Token format:** `You can put it however you want, as long as the division is done with ":"`
+* **Token format:** `You can put it however you want, as long as the split is done with ":"`
